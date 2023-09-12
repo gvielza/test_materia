@@ -7,5 +7,11 @@ mi_funcion()
 def suma(a,b):
    return print("La suma es  "+str(a+b))
 
-suma(int(input("ingrese el primer numero: ")),b=int(input("ingrese el segundo numero: ")))
+suma(int(input("ingrese el primer numero: ")),int(input("ingrese el segundo numero: ")))
+
+#funcion para restar
+def resta(a,b)
+   return print("La reesta es  "+str(a-b))
+suma(int(input("ingrese el primer numero: ")),int(input("ingrese el segundo numero: ")))
+
 
