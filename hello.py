@@ -14,3 +14,12 @@ def resta(a,b):
    return print("La resta es  "+str(a-b))
 resta(int(input("ingrese el primer numero: ")),int(input("ingrese el segundo numero: ")))
 
+
+
+def multi(a,b):
+   return print("La multiplicacion es " + str(a*b))
+multi(int(input("Ingrese el primer numero: ")),int(input("Ingrese el segundo numero: ")))
+
+def divi(a,b):
+   return print("La division es " + str(a/b))
+divi(int(input("Ingrese el primer numero: ")),int(input("Ingrese el segundo numero: ")))
